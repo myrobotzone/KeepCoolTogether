@@ -21,4 +21,4 @@ _Coming Soon_ - A simple DIY system that uses a cold water source for passive in
 
 ### Contributing
 
-It's a very young project, but if your interested in contributing please create an issue.
+It's a very young project, but if your interested in contributing please start a [Discussion](https://github.com/myrobotzone/KeepCoolTogether/discussions)
