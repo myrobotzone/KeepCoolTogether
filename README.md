@@ -15,6 +15,8 @@ Objectives of _Keep Cool Together_ (KCT):
 
 _Coming Soon_ - A simple DIY system that informs you when to open your windows to get that nice, dry, clean air inside.
 
+See the KCTOutsideAir docs: [KCTOutsideAir](Docs/KCTOutsideAir/README.md)
+
 ### KCTOutsideWater
 
 _Coming Soon_ - A simple DIY system that uses a cold water source for passive indoor cooling
